@@ -42,5 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # Or this?
 
 **BOLD**
+
 _Italic_
+
 Neat!
